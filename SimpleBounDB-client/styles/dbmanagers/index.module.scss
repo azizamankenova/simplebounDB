@@ -1,0 +1,18 @@
+@import "../variables.scss";
+
+.form {
+    max-width: 300px;
+
+    & > div {
+        margin-bottom: 10px;
+    }
+
+    button {
+        width: 100%;
+        margin-top: 10px;
+    }
+}
+
+.margin {
+    margin-left: 10px;
+}
